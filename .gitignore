@@ -1,0 +1,5 @@
+corpus/
+*.swp
+.gdb_history
+crashes/
+objdump
